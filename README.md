@@ -1,4 +1,8 @@
 # webpage-template
+## What is this?
+
+This is a template for making a [simple webpage] (https://jloan.github.io/webpage-template/) using HTML. This page can be published to the web or be run locally on your own and others computers using a web-browser.
+
 ## How-to use this template:
 
 * You'll want to download this template. It will download as a ZIPPED file whereever your computer puts downloads. 
